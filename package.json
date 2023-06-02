@@ -1,5 +1,12 @@
 {
   "dependencies": {
-    "@truffle/hdwallet-provider": "^2.0.14"
+    "@chainlink/contracts": "^0.6.1",
+    "@openzeppelin/contracts": "^4.9.0",
+    "@truffle/hdwallet-provider": "^2.0.14",
+    "bn.js": "^5.2.1",
+    "dotenv": "^16.0.3",
+    "ganache-cli": "^6.12.2",
+    "node": "^20.2.0",
+    "nvm": "^0.0.4"
   }
 }
